@@ -1,0 +1,7 @@
+C:\Users\arti\source\repos\Assignment2_1175\Assignment2_1175\bin\Debug\Assignment2_1175.exe.config
+C:\Users\arti\source\repos\Assignment2_1175\Assignment2_1175\bin\Debug\Assignment2_1175.exe
+C:\Users\arti\source\repos\Assignment2_1175\Assignment2_1175\bin\Debug\Assignment2_1175.pdb
+C:\Users\arti\source\repos\Assignment2_1175\Assignment2_1175\obj\Debug\Assignment2_1175.csprojAssemblyReference.cache
+C:\Users\arti\source\repos\Assignment2_1175\Assignment2_1175\obj\Debug\Assignment2_1175.csproj.CoreCompileInputs.cache
+C:\Users\arti\source\repos\Assignment2_1175\Assignment2_1175\obj\Debug\Assignment2_1175.exe
+C:\Users\arti\source\repos\Assignment2_1175\Assignment2_1175\obj\Debug\Assignment2_1175.pdb
